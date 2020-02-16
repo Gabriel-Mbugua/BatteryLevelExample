@@ -1,6 +1,7 @@
 # batterylevel
 
 A new Flutter application.
+<img src = "images/battery_level.png" width = 300/>
 
 ## Getting Started
 
